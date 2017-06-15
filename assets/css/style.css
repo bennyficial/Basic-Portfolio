@@ -1,0 +1,274 @@
+
+* {
+
+}
+
+
+header {
+	background-color: #ffffff;
+	height: 60px;
+	border-bottom: 5px solid #cccccc;
+	
+}
+
+
+
+footer {
+	color: #777777;
+	padding-top: 10px;
+	font-family: 'Arial';
+	font-size: 15px;
+}
+
+form {
+	margin-left: 30px;
+	color: #777777;
+	font-family: 'Arial';
+	font-size: 20px;
+}
+
+
+h1 {
+	background-color: #4aaaa5;
+	color: white;
+	padding: 16px 30px 16px 30px;
+	font-family: 'Georgia';
+
+}
+
+h2 {
+	font-family: 'Georgia';
+	margin-left: 30px;
+	color: #4aaaa5;
+}
+
+h3 {
+	font-family: 'Georgia';
+	color: #4aaaa5;
+}
+
+
+
+a {
+	color: #777777;
+	font-family: 'Arial';
+	font-size: 18px;
+	text-decoration: none;
+
+}
+
+p {
+	color: #777777;
+	margin-left: 20px;
+	margin-right: 20px;
+	float:; left;
+	font-family: 'Arial';
+}
+
+ul {
+	white-space: nowrap;
+
+}
+
+ul, li {
+  list-style: none;
+  display: inline;
+}
+
+
+#container {
+	width: 960px;
+	background-image: url("../images/concrete-texture.png");
+	
+
+}
+
+.icons {
+	width: 80px;
+		
+}
+
+#icon {
+	width: 73px;
+	margin-bottom: 3px;
+		
+}
+
+#benny {
+	margin-left: 20px;
+	float: left;
+	margin-right: 10px;
+
+}
+
+#name {
+	float: left;
+	margin-left: 15px;
+	margin-top: -29px;
+}
+
+
+#hr1 {
+	border-style: none;
+	width: 610px;
+	height: 3px;
+	background-color: #dddddd;
+
+}#hr2 {
+	border-style: none;
+	width: 250px;
+	height: 3px;
+	background-color: #dddddd;
+
+}
+
+#p1 {
+	position: absolute;
+	top: 285px;
+	left: 34px;
+	background-color: teal;
+	text-align: center;
+	height: 20px;
+	color: white;
+	padding: 15px 86px 15px 85px;
+}
+
+#p2 {
+	position: absolute;
+	top: 285px;
+	left: 389px;
+	background-color: teal;
+	text-align: center;
+	height: 20px;
+	color: white;
+	padding: 15px 79px 15px 78px;
+}
+
+#p3 {
+	position: absolute;
+	top: 530px;
+	left: 34px;
+	background-color: teal;
+	text-align: center;
+	height: 20px;
+	color: white;
+	padding: 15px 77px 15px 76px;
+}
+
+#p4 {
+	position: absolute;
+	top: 530px;
+	left: 389px;
+	background-color: teal;
+	text-align: center;
+	height: 20px;
+	color: white;
+	padding: 15px 50px 15px 49px	
+}
+
+#p5 {
+	position: absolute;
+	top: 775px;
+	left: 34px;
+	background-color: teal;
+	text-align: center;
+	height: 20px;
+	color: white;
+	padding: 15px 46px 15px 45px;
+}
+
+#ipad {
+	position: relative;
+	width: 240px;
+	height: 210px;
+	margin-left: -10px;
+
+}
+
+#turntable {
+	position: relative;
+	width: 240px;
+	height: 210px;
+	padding-left: 110px;	
+}
+
+#headphones {
+	position: relative;
+	width: 240px;
+	height: 210px;
+	margin-left: -10px;	
+}
+
+#iphone {
+	position: relative;
+	width: 240px;
+	height: 210px;
+	padding-left: 110px;	
+}
+
+#ledtv {
+	position: relative;
+	width: 240px;
+	height: 210px;
+	margin-left: -10px;		
+}
+
+#nav {
+	float: right;
+	margin-top: 15px;
+	margin-right: 10px;
+	
+
+	
+}
+
+#about-me {
+	clear: both;
+	float: left;
+	width: 650px;
+	background-color: #ffffff;
+	margin-left: 15px;
+	border: 1px solid #dddddd;
+	margin-bottom: 20px;
+
+}
+
+
+
+#connect {
+	float: right;
+	background-color: #ffffff;
+	width: 270px;
+	margin-right: 10px;
+	text-align: center;
+	border: 1px solid #dddddd;
+}
+
+#message {
+	width: 300px;
+	height: 40px;
+}
+
+#footer {
+	clear: both;
+	text-align: center;
+	background-color: #666666;
+	position: fixed: bottom;	
+	border-top: 8px solid #4aaaa5;
+	height: 60px;
+	padding-top: 20px;
+}
+
+#submit {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	padding: 15px 25px 15px 25px;
+	border: none;
+	font-family: 'Arial';
+	font-size: 20px;
+}
+
+
+body {
+	background-color: white;
+}
